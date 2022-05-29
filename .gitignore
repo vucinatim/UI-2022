@@ -1,7 +1,7 @@
 # saved model checkpoints
 # */checkpoints/*
 
-*/data/*.csv
+*/raw_data/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
